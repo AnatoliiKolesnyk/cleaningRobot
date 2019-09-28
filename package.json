@@ -1,0 +1,25 @@
+{
+  "name": "cleaning-robot",
+  "version": "1.0.0",
+  "description": "Cleaning robot prototype",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm test",
+    "test": "karma start my.conf.js"
+  },
+  "author": "Anatolii Kolesnyk",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.6.2",
+    "@babel/preset-env": "^7.6.2",
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "jasmine-core": "^3.5.0",
+    "karma": "^4.3.0",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-jasmine": "^2.0.1",
+    "karma-webpack": "^4.0.2",
+    "webpack": "^4.41.0"
+  }
+}
