@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0a06ad4-b9d2-44f2-abdd-9eb3c3fd6c9e" name="Default Changelist" comment="" />
+    <list default="true" id="c0a06ad4-b9d2-44f2-abdd-9eb3c3fd6c9e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robot.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/robot.spec.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +61,7 @@
       <updated>1569584299790</updated>
       <workItem from="1569584300955" duration="654000" />
       <workItem from="1569661676612" duration="6180000" />
+      <workItem from="1569783546346" duration="361000" />
     </task>
     <servers />
   </component>
@@ -69,7 +73,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
